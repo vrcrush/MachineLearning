@@ -1,6 +1,8 @@
 # MachineLearning
 
 Resources
+
+Data Science Central
 https://www.datasciencecentral.com/
 
 Bandit Algorithms
@@ -20,3 +22,12 @@ https://research.google.com/pubs/MachineIntelligence.html
 
 Tensor Flow
 https://cognitiveclass.ai/courses/deep-learning-tensorflow/
+
+Machine Learning Repo
+http://archive.ics.uci.edu/ml/index.php
+
+Sebastian Raschka Projects
+https://sebastianraschka.com/projects.html
+
+Machine Learning Crash Course (with Tensor Flow)
+https://developers.google.com/machine-learning/crash-course/
