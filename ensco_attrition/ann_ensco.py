@@ -72,7 +72,7 @@ y_pred = classifier.predict(X_test)
 y_pred = (y_pred > 0.5)
 
 # Predicting a single new observation
-"""Predict if the EMPLOYEE with the following informations will leave the bank:
+"""Predict if the EMPLOYEE with the following informations will leave the company:
 BU: CORP
 BIRTH: US
 Grade: 35
